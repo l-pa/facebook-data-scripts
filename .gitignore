@@ -1,0 +1,8 @@
+# Extensions
+*.json
+*.txt
+*.html
+
+# Files
+Facebook data-checkpoint.ipynb
+test.py
