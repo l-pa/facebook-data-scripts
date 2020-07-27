@@ -1,2 +1,4 @@
 # social-data-scripts
-Scripts for analyzing chat data from facebook
+Scripts for analyzing user data exported from various social networks.
+
+
