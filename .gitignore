@@ -2,6 +2,7 @@
 *.json
 *.txt
 *.html
+*.ipynb_checkpoints
 
 # Files
 Facebook data-checkpoint.ipynb
